@@ -1,0 +1,63 @@
+.fitnessimg{
+    height: 80px;
+}
+
+.nutrition{
+    height: 30px;
+}
+.navtwo{
+ color: white;   
+}
+#images{
+ height: 650px;   
+ padding-left: 170px;
+ padding-right: 200px
+
+}
+   
+#body{
+    background-color: black;
+}
+#caption2{
+ padding-bottom :500px;  
+ padding-right:550px ;
+}
+#caption3{
+ padding-right: 130px;
+}
+#paragraph{
+ color: rgb(236, 239, 241);
+ visibility: visible;
+ background-color: rgb(21, 20, 20);
+
+}.heading{
+ color: rgb(109, 232, 232); 
+   background-color: rgb(40, 43, 25);
+}
+.heading2{
+color: rgb(125, 139, 152);    
+font-size: 16px;
+line-height: 20px;
+font-weight: 500;
+}
+.images2{
+background-color: black; 
+padding: 40px;
+}
+#cardbody{
+color: aliceblue;
+background-color: rgb(32, 31, 31);
+    
+}
+
+
+
+
+
+
+    
+
+
+
+
+
